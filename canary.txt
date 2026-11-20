@@ -1,0 +1,1 @@
+Synthetic merge queue canary fixture.
